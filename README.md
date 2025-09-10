@@ -10,7 +10,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 - 💼  Programmer Analyst at [Cognizant](https://www.cognizant.com/)
 
-- 📈 
+- 📈 Curently learning to build projects from scratch
 
 - ❤️ I love writing and building fun experiments
 
@@ -27,7 +27,6 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 - 🔭 Here's my [LinkedIn]()                                                 
 - 🌱 I’m currently learning 
-- PA at [ <img src="https://www.Cognizant.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24"> ]
 
 
 
