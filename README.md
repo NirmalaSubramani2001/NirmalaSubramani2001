@@ -23,7 +23,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 | ------------- | ------------- |
 
-- 🔭 Here's my [https://www.linkedin.com/in/nirmala9501/]()                                                 
+- 🔭 Here's my https://www.linkedin.com/in/nirmala9501/                                                 
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 
 
