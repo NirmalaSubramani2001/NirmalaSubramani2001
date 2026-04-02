@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
+<img align="right" width="180" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
 
 - 💼 **Programmer Analyst @ Cognizant**
 - 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/nirmala9501/)**
@@ -24,12 +24,15 @@
 ---
 
 ## 🌐 Connect with me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nirmala9501/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:nirmalalogu01@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/NirmalaSubramani2001">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
