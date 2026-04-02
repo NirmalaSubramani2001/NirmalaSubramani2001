@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="180" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
+<img align="right" width="170" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
 
 - 💼 **Programmer Analyst @ Cognizant**
 - 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/nirmala9501/)**
