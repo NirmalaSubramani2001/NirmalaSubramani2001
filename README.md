@@ -16,7 +16,7 @@
 <img align="right" width="170" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
 
 - 💼 **Programmer Analyst @ Cognizant**
-- 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/nirmala9501/)**
+- 🔗 **[LinkedIn Profile]** https://www.linkedin.com/in/nirmala9501/ 
 - 🌱 **Currently Learning:** Python | Web Tech | Shell Scripting
 - 🚀 **Building:** Real-world projects from scratch
 - ❤️ **Love:** Experimenting with new technologies
