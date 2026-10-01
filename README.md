@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmala Subramani</h1>
-<h3 align="center">💻 Programmer Analyst | System Engineer</h3>
+<h3 align="center">💻 System Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Shell+Scripting+Learner;Tech+Explorer&center=true&width=500&height=45">
