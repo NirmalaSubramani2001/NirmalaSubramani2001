@@ -2,7 +2,7 @@
 <h3 align="center">💻 System Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Shell+Scripting+Learner;Tech+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Explorer&center=true&width=500&height=45">
 </p>
 
 <p align="center">
